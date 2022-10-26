@@ -1,0 +1,29 @@
+.content{
+    position: relative;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    width: 84rem;
+    height: 40rem;
+    margin-top: 3rem;
+    border-radius: 50px;
+    text-align: center;
+    overflow:hidden;
+    box-shadow: 0 0 2px;
+}
+
+.baskt{
+    font-size: 1.5rem;
+}
+
+.pr{
+    margin: 3rem;
+}
+
+.pr1{
+    margin: 2rem;
+}
+
+body{
+    background-color: none!important;
+    background-image: url("/img/cdek.jpg")!important;
+}

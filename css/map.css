@@ -1,0 +1,23 @@
+.content{
+    width: 84rem;
+    position: relative;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    height: 40rem;
+    margin-top: 3rem;
+    border-radius: 50px;
+    text-align: center;
+    overflow:hidden;
+}
+
+.baskt{
+    font-size: 1.5rem;
+}
+
+.pr{
+    margin: 3rem;
+}
+
+.pr1{
+    margin: 2rem;
+}
